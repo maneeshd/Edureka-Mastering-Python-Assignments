@@ -3,7 +3,7 @@
 @date: 29-May-17
 @intepreter: Python 3.6
 
-Script Corection: [Expected output: x-value: 5 y-value: 7]
+Script Correction: [Expected output: x-value: 5 y-value: 7]
 """
 
 
