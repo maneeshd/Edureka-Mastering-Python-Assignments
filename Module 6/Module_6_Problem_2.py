@@ -15,6 +15,7 @@ print("-" * 12 + "Replacing the min value with 0 and max value with 100" + "-" *
 
 # Sorting the array. array[0] will have the min value and array[len-1] will have max value.
 rand_vector.sort()
+
 min_val = rand_vector[0]
 max_val = rand_vector[49]
 print("Minimum Value Elemnet=", min_val, " Maximum Value Element=", max_val)
